@@ -36,7 +36,7 @@ Welcome to the official repository hub for the Udemy course. This course teaches
 - Hands-on learners who prefer building over theory
 - Curious minds who want to understand large-scale systems
 
-👉 **[Enroll on Udemy](https://www.udemy.com)**
+👉 **[Enroll on Udemy](https://www.udemy.com/course/practical-system-design/?referralCode=C5D2686224FFF84F29D3)**
 
 <br>
 
