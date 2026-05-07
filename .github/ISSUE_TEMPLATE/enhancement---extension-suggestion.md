@@ -21,18 +21,23 @@ Which section does this enhancement relate to?
 
 ## Enhancement / Extension Proposal
 
+<!--
 Describe the feature, architectural improvement, or extension idea.
+-->
 
 ---
 
 ## Motivation
 
+<!--
 Why would this improve the system, architecture, scalability, reliability, or learning experience?
+-->
 
 ---
 
 ## Possible Implementation Direction (Optional)
 
+<!--
 Describe a possible technical approach, AWS service, architecture pattern, or implementation strategy.
 
 Examples:
@@ -46,11 +51,13 @@ Examples:
 - Disaster recovery
 - Dead letter queues
 - Rate limiting
+-->
 
 ---
 
 ## Related Technologies / Concepts
 
+<!--
 Examples:
 - Redis
 - Kafka
@@ -62,12 +69,15 @@ Examples:
 - Kubernetes
 - ZooKeeper
 - Distributed Systems
+-->
 
 ---
 
 ## Additional Context
 
+<!--
 Add diagrams, references, screenshots, or related resources if applicable.
+-->
 
 ---
 
