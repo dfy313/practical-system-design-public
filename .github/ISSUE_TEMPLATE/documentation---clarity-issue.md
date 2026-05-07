@@ -21,6 +21,7 @@ Which section does this relate to?
 
 ## Topic / Area
 
+<!--
 Examples:
 - README instructions
 - Architecture explanation
@@ -30,41 +31,52 @@ Examples:
 - Diagram clarification
 - Deployment walkthrough
 - Video explanation
+-->
 
 ---
 
 ## Question or Documentation Issue
 
+<!--
 Describe what was confusing, unclear, or missing.
+-->
 
 ---
 
 ## What Were You Trying To Do?
 
+<!--
 Describe the task, workflow, or concept you were working on when the confusion occurred.
+-->
 
 ---
 
 ## Suggested Improvement (Optional)
 
+<!--
 If applicable, suggest a clearer explanation, wording improvement, or missing step.
+-->
 
 ---
 
 ## Relevant Resource
 
+<!--
 Examples:
 - README section
 - video/chapter
 - command
 - architecture diagram
 - AWS console step
+-->
 
 ---
 
 ## Additional Context
 
+<!--
 Add screenshots, diagrams, or references if helpful.
+-->
 
 ---
 
