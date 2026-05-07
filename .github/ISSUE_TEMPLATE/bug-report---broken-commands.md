@@ -20,13 +20,17 @@ Which section does this issue affect?
 
 ## Describe the Problem
 
+<!--
 Provide a clear description of the issue.
+-->
 
 ---
 
 ## Expected Behavior
 
+<!--
 What did you expect to happen?
+-->
 
 ---
 
@@ -40,6 +44,7 @@ What did you expect to happen?
 
 ## Relevant Command / File / README Section
 
+<!--
 Examples:
 - README section
 - shell command
@@ -47,6 +52,7 @@ Examples:
 - Lambda function
 - Terraform file
 - deployment step
+-->
 
 ---
 
@@ -60,16 +66,20 @@ Paste logs or error messages here
 
 ## Environment
 
+<!--
 - OS:
 - Python Version:
 - AWS Service(s):
 - Browser (if applicable):
+-->
 
 ---
 
 ## Additional Context
 
+<!--
 Add screenshots or additional context if helpful.
+-->
 
 ---
 
