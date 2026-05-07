@@ -82,8 +82,7 @@ Feedback of all kinds is welcome — whether it’s structured notes, quick thou
 
 For a recommended feedback workflow, check out this short Loom walkthrough:
 
-- **[Practical System Design Course – Feedback Instructions](https://www.loom.com/)**  
-  Video Password: `Password100!`
+- **[Practical System Design Course – Feedback Instructions](https://www.loom.com/share/36f7da2f8a88415ebf058620d68dd8ac)**
 
 ---
 
