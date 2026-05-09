@@ -75,6 +75,13 @@ Paste logs or error messages here
 
 ---
 
+## Suggested Improvement (Optional)
+
+<!--
+If applicable, suggest a clearer explanation, wording improvement, or missing step.
+-->
+
+
 ## Additional Context
 
 <!--
